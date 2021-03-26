@@ -1,1 +1,2 @@
 # Flight-Booking-System
+A prototype that incorporates a few of the features for ailing airline reservation system with a menu-driven interface in a C# program that uses an array of strings to represent the seats on an airplane. Assuming, for the prototype there are 10 seats (numbered 0-9). Two Methods and Three Functions are used mainly for the program which are names; int method call ‘FindEmptySeat’, int method call ‘FindCustomerSeat’, void function called ‘Booking’, void function called ‘Cancel’ and void function called ‘PrintSeats’.
