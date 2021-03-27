@@ -1,0 +1,7 @@
+E:\Education\Projects\C#\FBS\FBS\FBS\obj\Debug\FBS.csprojAssemblyReference.cache
+E:\Education\Projects\C#\FBS\FBS\FBS\obj\Debug\FBS.csproj.CoreCompileInputs.cache
+E:\Education\Projects\C#\FBS\FBS\FBS\bin\Debug\FBS.exe.config
+E:\Education\Projects\C#\FBS\FBS\FBS\bin\Debug\FBS.exe
+E:\Education\Projects\C#\FBS\FBS\FBS\bin\Debug\FBS.pdb
+E:\Education\Projects\C#\FBS\FBS\FBS\obj\Debug\FBS.exe
+E:\Education\Projects\C#\FBS\FBS\FBS\obj\Debug\FBS.pdb
